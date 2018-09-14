@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+#title {
+	text-align: center;
+}
+
+#beat {
+	text-align: center;
+}
+
+#p1 {
+	color: red;
+}
+
+#p2 {
+	color: blue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#beat {
+	color: yellow;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+body {
+    background-image: url("background.jpeg");
+    color: white;
+    font-weight: bold;
+}
