@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/arsenal</item>
+        <item>@font/cairo</item>
+        <item>@font/croissant_one</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/droid_sans</item>
+        <item>@font/khula</item>
+    </array>
+</resources>
